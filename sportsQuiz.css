@@ -1,0 +1,68 @@
+body{
+     background-image:url(https://i1370.photobucket.com/albums/ag251/anthroisphoto/BScon_zps4b14415f.jpg);
+
+     font-family: 'Roboto Slab', serif;
+
+   }
+
+
+
+#frame001 {
+            background-color: white;
+            border: 10px solid black;
+            width: 500px;
+            height: auto;
+            border-radius: 10px;
+            padding: 100px;
+            margin: auto;
+            top:50%;
+            left:50%;
+          
+             
+            }
+
+        .buttons001 {
+            background-color: blue;
+            color: white;
+            padding: 5px;
+            margin: 10px;
+            border-radius: 10px;
+            width: 100px;
+        }
+
+        .buttons002 {
+            background-color: lightblue;
+            color: black;
+            padding: 5px;
+            margin: 10px;
+            border-radius: 10px;
+            width: 200px;
+            
+
+        }
+
+        .buttons002:hover{
+
+          color: white;
+          background:black;
+        }
+
+        #text001 {
+            text-align: center;
+            text-transform: uppercase;
+            color: red;
+            font-size: 30px;
+        }
+
+        #text002 {
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        #green001 {
+            color: green;
+        }
+
+        #red001 {
+            color: red;
+        }
